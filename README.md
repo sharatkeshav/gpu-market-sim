@@ -6,7 +6,7 @@ A discrete-event simulator of a GPU-sharing marketplace. It models tiered hosts 
 
 ## Requirements
 
-Python 3.10+ with `numpy` and `matplotlib` (see `requirements.txt`). Building the paper needs a TeX distribution with `IEEEtran`.
+Python 3.10+ with `numpy` and `matplotlib` (see `requirements.txt`).
 
 ## Reproduce everything
 
